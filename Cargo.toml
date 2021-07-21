@@ -3,6 +3,12 @@ name = "hello_world"
 version = "0.1.0"
 edition = "2018"
 repository = "local"
+license = "CLOSED"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+sixtyfps = "0.1.0"
+
+[[bin]]
+name = "hello_60"
+path = "main.rs"

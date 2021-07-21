@@ -1,0 +1,11 @@
+/home/fabian/semasquare/hello_world/target/debug/deps/codemap_diagnostic-3cb0de7ac29b39bb.rmeta: /home/fabian/.cargo/registry/src/github.com-1ecc6299db9ec823/codemap-diagnostic-0.1.1/src/lib.rs /home/fabian/.cargo/registry/src/github.com-1ecc6299db9ec823/codemap-diagnostic-0.1.1/src/lock.rs /home/fabian/.cargo/registry/src/github.com-1ecc6299db9ec823/codemap-diagnostic-0.1.1/src/snippet.rs /home/fabian/.cargo/registry/src/github.com-1ecc6299db9ec823/codemap-diagnostic-0.1.1/src/styled_buffer.rs /home/fabian/.cargo/registry/src/github.com-1ecc6299db9ec823/codemap-diagnostic-0.1.1/src/emitter.rs
+
+/home/fabian/semasquare/hello_world/target/debug/deps/libcodemap_diagnostic-3cb0de7ac29b39bb.rlib: /home/fabian/.cargo/registry/src/github.com-1ecc6299db9ec823/codemap-diagnostic-0.1.1/src/lib.rs /home/fabian/.cargo/registry/src/github.com-1ecc6299db9ec823/codemap-diagnostic-0.1.1/src/lock.rs /home/fabian/.cargo/registry/src/github.com-1ecc6299db9ec823/codemap-diagnostic-0.1.1/src/snippet.rs /home/fabian/.cargo/registry/src/github.com-1ecc6299db9ec823/codemap-diagnostic-0.1.1/src/styled_buffer.rs /home/fabian/.cargo/registry/src/github.com-1ecc6299db9ec823/codemap-diagnostic-0.1.1/src/emitter.rs
+
+/home/fabian/semasquare/hello_world/target/debug/deps/codemap_diagnostic-3cb0de7ac29b39bb.d: /home/fabian/.cargo/registry/src/github.com-1ecc6299db9ec823/codemap-diagnostic-0.1.1/src/lib.rs /home/fabian/.cargo/registry/src/github.com-1ecc6299db9ec823/codemap-diagnostic-0.1.1/src/lock.rs /home/fabian/.cargo/registry/src/github.com-1ecc6299db9ec823/codemap-diagnostic-0.1.1/src/snippet.rs /home/fabian/.cargo/registry/src/github.com-1ecc6299db9ec823/codemap-diagnostic-0.1.1/src/styled_buffer.rs /home/fabian/.cargo/registry/src/github.com-1ecc6299db9ec823/codemap-diagnostic-0.1.1/src/emitter.rs
+
+/home/fabian/.cargo/registry/src/github.com-1ecc6299db9ec823/codemap-diagnostic-0.1.1/src/lib.rs:
+/home/fabian/.cargo/registry/src/github.com-1ecc6299db9ec823/codemap-diagnostic-0.1.1/src/lock.rs:
+/home/fabian/.cargo/registry/src/github.com-1ecc6299db9ec823/codemap-diagnostic-0.1.1/src/snippet.rs:
+/home/fabian/.cargo/registry/src/github.com-1ecc6299db9ec823/codemap-diagnostic-0.1.1/src/styled_buffer.rs:
+/home/fabian/.cargo/registry/src/github.com-1ecc6299db9ec823/codemap-diagnostic-0.1.1/src/emitter.rs:

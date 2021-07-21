@@ -1,0 +1,3 @@
+cargo:rerun-if-env-changed=SIXTYFPS_NO_QT
+cargo:rustc-cfg=no_qt
+cargo:warning=Qt 5.9.5 is not supported, you need at least Qt 5.15. The Qt backend will not be functional. See https://github.com/sixtyfpsui/sixtyfps/blob/master/docs/install_qt.md for more info
