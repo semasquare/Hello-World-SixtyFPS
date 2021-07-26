@@ -8,6 +8,7 @@ license = "CLOSED"
 
 [dependencies]
 sixtyfps = "0.1.0"
+x11 = "2.18.2"
 
 [[bin]]
 name = "hello_60"
